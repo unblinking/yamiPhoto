@@ -1,0 +1,87 @@
+/* v1.0 | 20080212   http://meyerweb.com/eric/tools/css/reset/ */
+/* 2011 customized with additions by graydata.com */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 5;
+	padding: 5;
+	border: 1
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+}
+body {
+	line-height: 1.4;
+	font-size: 12pt;
+	font-family: Arial, Arial, Helvetica, sans-serif;
+	font-style: normal;
+	text-align: left;
+	background: #918f8f; /* gray #918f8f */
+	color: black;
+}
+fieldset {
+	background: #ccc;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+
+red {
+	color: #f00;
+}
+
+table
+{
+    border-color: #600;
+    border-width: 0 0 1px 1px;
+    border-style: solid;
+}
+
+td
+{
+    border-color: #600;
+    border-width: 1px 1px 0 0;
+    border-style: solid;
+    margin: 0;
+    padding: 4px;
+    background-color: #FFC;
+}
+
+legend	{
+	font-weight: bold;
+	font-size: 16pt;
+}
+
+.photos-images	{
+	margin: 0px;
+	padding: 5px;
+	background-color: #fff;
+}
