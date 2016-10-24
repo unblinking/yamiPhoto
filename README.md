@@ -1,5 +1,9 @@
 # yamiPhoto
 
+## Repository for posterity
+
+yamiPhoto was written quite a while ago, and by now is quite old. Repository recorded here for posterity. For those who wrote simple Perl CGI scripts when they were popular, enjoy the nostalgia.
+
 ## About
 
 Yami means "pair" in Sanskrit.
