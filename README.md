@@ -1,5 +1,7 @@
 # yamiPhoto
 
+<a href="https://codeclimate.com/github/nothingworksright/yamiPhoto"><img src="https://codeclimate.com/github/nothingworksright/yamiPhoto/badges/gpa.svg" /></a><a href="https://codeclimate.com/github/nothingworksright/yamiPhoto/coverage"><img src="https://codeclimate.com/github/nothingworksright/yamiPhoto/badges/coverage.svg" /></a><a href="https://codeclimate.com/github/nothingworksright/yamiPhoto"><img src="https://codeclimate.com/github/nothingworksright/yamiPhoto/badges/issue_count.svg" /></a>
+
 ## Repository for posterity
 
 yamiPhoto was written quite a while ago, and by now is quite old. Repository recorded here for posterity. For those who wrote simple Perl CGI scripts when they were popular, enjoy the nostalgia.
