@@ -34,3 +34,6 @@ yamiPhoto is a small set of Perl CGI scripts for uploading or deleting image fil
 
 ![Screenshot 5](/screenshots/screenshot_5.png?raw=true "Screenshot 5")
 
+## Show your support  
+
+Support this project by [making a pledge via Patreon](https://www.patreon.com/jmg1138).  
