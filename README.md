@@ -36,8 +36,8 @@ yamiPhoto is a small set of Perl CGI scripts for uploading or deleting image fil
 
 ## Show your support  
 
-Support this open source project and motivate me to continue development. Using [Beerpay.io](https://beerpay.io/yamiPhoto/unblinkingbot?focus=wish) you can send me support, and make a wish for a new feature or issue fix.  
+Support this open source project and motivate me to continue development. Using [Beerpay.io](https://beerpay.io/nothingworksright/yamiPhoto?focus=wish) you can send me support, and make a wish for a new feature or issue fix.  
 
-[Click here to show your support](https://beerpay.io/yamiPhoto/unblinkingbot?focus=wish).  
+[Click here to show your support](https://beerpay.io/nothingworksright/yamiPhoto?focus=wish).  
 
-[![Beerpay](https://beerpay.io/yamiPhoto/unblinkingbot/badge.svg?style=beer)](https://beerpay.io/yamiPhoto/unblinkingbot)  [![Beerpay](https://beerpay.io/yamiPhoto/unblinkingbot/make-wish.svg?style=flat)](https://beerpay.io/yamiPhoto/unblinkingbot?focus=wish)  
+[![Beerpay](https://beerpay.io/nothingworksright/yamiPhoto/badge.svg?style=beer)](https://beerpay.io/nothingworksright/yamiPhoto)  [![Beerpay](https://beerpay.io/nothingworksright/yamiPhoto/make-wish.svg?style=flat)](https://beerpay.io/nothingworksright/yamiPhoto?focus=wish)  
