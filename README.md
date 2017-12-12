@@ -33,11 +33,3 @@ yamiPhoto is a small set of Perl CGI scripts for uploading or deleting image fil
 #### delete.cgi
 
 ![Screenshot 5](/screenshots/screenshot_5.png?raw=true "Screenshot 5")
-
-## Show your support  
-
-Support this open source project and motivate me to continue development. Using [Beerpay.io](https://beerpay.io/nothingworksright/yamiPhoto?focus=wish) you can send me support, and make a wish for a new feature or issue fix.  
-
-[Click here to show your support](https://beerpay.io/nothingworksright/yamiPhoto?focus=wish).  
-
-[![Beerpay](https://beerpay.io/nothingworksright/yamiPhoto/badge.svg?style=beer)](https://beerpay.io/nothingworksright/yamiPhoto)  [![Beerpay](https://beerpay.io/nothingworksright/yamiPhoto/make-wish.svg?style=flat)](https://beerpay.io/nothingworksright/yamiPhoto?focus=wish)  
