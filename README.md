@@ -1,5 +1,3 @@
-[![Code Climate](https://codeclimate.com/github/nothingworksright/yamiPhoto/badges/gpa.svg)](https://codeclimate.com/github/nothingworksright/yamiPhoto) [![Issue Count](https://codeclimate.com/github/nothingworksright/yamiPhoto/badges/issue_count.svg)](https://codeclimate.com/github/nothingworksright/yamiPhoto)
-
 # yamiPhoto
 
 ## Repository for posterity
